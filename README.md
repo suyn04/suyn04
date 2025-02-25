@@ -30,5 +30,6 @@
 ### :mailbox_with_mail: Links
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soooyeondev@gmail.com)](mailto:soooyeondev@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)](https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)
+[![Velog_Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@soooyeondev/posts)
 
 </div>
