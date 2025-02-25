@@ -1,4 +1,7 @@
-## 👋 안녕하세요 프론트엔드 개발자 한수연 입니다.
+## 👋 Hello, I'm SooYeon
+
+<div align='center'>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
 
 ## 🔥 관심 있는 프로젝트
 - [shoppingmall_project](https://github.com/suyn04/shoppingmall_project)
@@ -20,3 +23,5 @@
 ### :mailbox_with_mail: Links
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soooyeondev@gmail.com)](mailto:soooyeondev@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)](https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)
+
+</div>
