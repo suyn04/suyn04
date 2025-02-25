@@ -1,7 +1,12 @@
 <div align='center'>
 ## 👋 Hello, I'm SooYeon
 <hr/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
+
+🔹 Frontend Developer | React & Node.js  
+🔹 Built a recycling information website using map API  
+🔹 Passionate about creating interactive and responsive web experiences  
+
 
 ### 💪skills
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
