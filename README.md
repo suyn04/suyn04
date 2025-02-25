@@ -10,6 +10,6 @@
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### :mailbox_with_mail: Contacts
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soooyeondev@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)
+### :mailbox_with_mail: Links
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:soooyeondev@gmail.com)](mailto:soooyeondev@gmail.com)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)](https://terrific-iodine-921.notion.site/17e4f5575e8a801cb92cc0beb1e66d17?pvs=4)
