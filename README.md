@@ -1,4 +1,7 @@
-## 👋 안녕하세요 소통과 협업으로 성장하는 프론트엔드 개발자 한수연 입니다.
+## 👋 안녕하세요 프론트엔드 개발자 한수연 입니다.
+
+## 🔥 관심 있는 프로젝트
+- [shoppingmall_project](https://github.com/suyn04/shoppingmall_project)
 
 ### 💪skills
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
