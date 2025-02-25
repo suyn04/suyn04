@@ -20,7 +20,12 @@
 
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white)
+
+
+![nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 
 ### :mailbox_with_mail: Links
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soooyeondev@gmail.com)](mailto:soooyeondev@gmail.com)
