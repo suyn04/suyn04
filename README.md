@@ -1,7 +1,8 @@
 <div align='center'>
   <h2>👋 Hello, I'm SooYeon</h2>
   
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/suyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=github&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
+
 
 🔹 Frontend Developer : Passionate about creating interactive and responsive web experiences  
 🔹 더 나은 프론트엔드 개발자가 되기 위해 노력합니다!
