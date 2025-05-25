@@ -1,9 +1,6 @@
 <div align='center'>
   <h2>👋 Hello, I'm SooYeon</h2>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuyn04&count_bg=%230067FF&title_bg=%23BCD7FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/suyn04)
-
-
 🔹 Frontend Developer : Passionate about creating interactive and responsive web experiences  
 🔹 더 나은 프론트엔드 개발자가 되기 위해 노력합니다!
 
@@ -11,6 +8,8 @@
 ### 💪skills
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,7 +23,6 @@
 
 
 ![nodejs](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 
 ### :mailbox_with_mail: Links
